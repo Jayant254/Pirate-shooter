@@ -1,1 +1,3 @@
-# Pirate-shooter
+# PiratesInvasionStage-6
+
+adding sounds and score
